@@ -1,0 +1,9 @@
+<resources>
+    <string name="map_key" translatable="false">AIzaSyD8uMTE-dsL0b5oCea0Jef79TJGmjDF6KM</string>
+
+    <string name="app_name">androidpractical</string>
+    <string name="facebook_app_id">608502947096348</string>
+    <string name="fb_login_protocol_scheme">fb608502947096348</string>
+    <string name="facebook_name">Facebook Name</string>
+    <string name="facebook_email">Facebook Email</string>
+</resources>
